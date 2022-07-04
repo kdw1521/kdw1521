@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kdw1521(wando)
 - 👀 I’m interested in web!
 - 🌱 I’m currently learning golang!
-- 💞️ my service https://wando.ga
 - 📫 How to reach me kdw40161217@gmail.com
 
 <!---
