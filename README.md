@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @kdw1521(wando)
-- 👀 I’m interested in web!
-- 🌱 I’m currently learning golang!
+- 👀 I’m interested in block chain!
+- 🌱 I’m currently learning block chain!
+```
+react, metamask, solidity, ethereum network, geth, golang ...
+```
 - 📫 How to reach me kdw40161217@gmail.com
 
 <!---
