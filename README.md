@@ -32,4 +32,4 @@
 
 <hr/>
 
-![Wando's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdw1521)
+![Wando's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdw1521&show_icons=true&theme=transparent)
