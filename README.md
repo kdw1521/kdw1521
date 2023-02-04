@@ -51,4 +51,6 @@
 
 <hr/>
 
-![Wando's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdw1521&show_icons=true&theme=transparent)
+![Wando's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kdw1521&show_icons=true&theme=dark#gh-dark-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdw1521&theme=dark)
