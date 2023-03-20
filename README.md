@@ -41,7 +41,7 @@
 ![Git actions](https://shields.io/badge/gitActions-black?logo=gitActions&style=for-the-badge%22)
 ![Docker](https://shields.io/badge/docker-black?logo=docker&style=for-the-badge%22)
 
-# 스터디 중
+# 관심분야
 
 ![Block Chain](https://shields.io/badge/blockChain-black?logo=blockchain&style=for-the-badge%22)
 ![Ethereum](https://shields.io/badge/ethereum-black?logo=Ethereum&style=for-the-badge%22)
